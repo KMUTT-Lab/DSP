@@ -47,5 +47,5 @@
 
 🎉 **เสร็จสิ้นภารกิจ!** เมื่อส่งสำเร็จ คุณจะได้รับอีเมลยืนยันพร้อมสำเนาคำตอบของตนเอง เก็บไว้เป็นหลักฐานการส่งงานครับ
 
-> *"The data is committed. Keep hacking."*
+> *"The data is committed. Keep hacking."*  
 > *จัดทำโดย [Living Incognito] - วิชา ICE385 COMPUTER TECHNOLOGY LABORATORY I (Introduction to Digital Signal Processing) - 13 Mar 2026*
