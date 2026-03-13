@@ -34,4 +34,4 @@
 4. ตรวจสอบในหน้า GitHub ของตนเองว่าไฟล์ถูก Push ขึ้นไปเรียบร้อยแล้ว
 
 ---
-*หากมีข้อสงสัยหรือพบปัญหาทางเทคนิค สามารถเปิด Issue ในหน้า GitHub Repository ของวิชานี้ได้ทันที*
+> *จัดทำโดย [Living Incognito] - วิชา ICE385 COMPUTER TECHNOLOGY LABORATORY I (Introduction to Digital Signal Processing) - 13 Mar 2026*

@@ -137,4 +137,4 @@ display(Audio(data=y_noisy, rate=fs))
 ```
 
 ---
-
+# *จัดทำโดย [Living Incognito] - วิชา ICE385 COMPUTER TECHNOLOGY LABORATORY I (Introduction to Digital Signal Processing) - 13 Mar 2026*
