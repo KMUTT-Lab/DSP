@@ -37,5 +37,5 @@
 ---
 *หากระบบขัดข้องหรือมีข้อสงสัย ให้เปิด Issue ใน GitHub Repository ของวิชานี้ หรือสอบถามในช่องทางติดต่อส่วนกลาง*
 
-> *"The first wave is generated. The system is listening."*
+> *"The first wave is generated. The system is listening."*  
 > *จัดทำโดย [Living Incognito] - วิชา ICE385 COMPUTER TECHNOLOGY LABORATORY I (Introduction to Digital Signal Processing) - 13 Mar 2026*
