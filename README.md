@@ -20,7 +20,7 @@
 ### Step 1: เข้าสู่ระบบ (System Override)
 เมื่อมี Repository ของตัวเองแล้ว ให้คลิกที่ป้ายด้านล่างนี้เพื่อดึงไฟล์ "พิมพ์เขียว" (Skeleton Code) ของ Lab 1 ไปเปิดบน Google Colab ของคุณ
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KMUTT-Lab/DSP01/blob/main/Lab01_HelloDSP.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KMUTT-Lab/DSP/blob/main/Lab01_HelloDSP.ipynb)
 *(หมายเหตุ: หากขึ้น Error ให้ตรวจสอบว่าคุณได้ Login บัญชี Google เรียบร้อยแล้ว)*
 
 ### Step 2: ปฏิบัติการ (Execution)
